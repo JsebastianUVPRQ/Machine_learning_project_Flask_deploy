@@ -19,10 +19,11 @@ models.py: File containing the definition and training of the multivariate regre
 
 Model Training:
 1. Ensure you have the necessary data and train the model by executing:
-```bash    python models.py```
+```bash python models.py```
+
 2. Server Execution:
 Start the Flask server by executing:
-```bash    python server.py```
+```bash python server.py```
 
 LICENSE
 This software is licensed under the Mozilla Public License 2.0
